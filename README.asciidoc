@@ -1,0 +1,12 @@
+Shaikr Ophir's "The English Teacher" Skit, with an English intro
+================================================================
+Shlomi Fish <shlomif@cpan.org>
+:Date: 2019-10-28
+:Revision: $Id$
+
+[id="about"]
+About:
+------
+
+This is https://en.wikipedia.org/wiki/Shaike_Ophir[Shaike Ophir]'s "The English Teacher" Skit, only with an English introduction (as recorded by simcop2387)
+instead of the original one in Hebrew.
