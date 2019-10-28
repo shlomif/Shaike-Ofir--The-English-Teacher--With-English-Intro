@@ -5,7 +5,7 @@
 
 OUTBASE := Shaikeh-Ophir--The-English-Teacher--With-English-Intro
 
-all: opening-cut.wav shaike-cut.wav $(OUTBASE).wav $(OUTBASE).mp3
+all: opening-cut.wav shaike-cut.wav $(OUTBASE).wav $(OUTBASE).mp3 $(OUTBASE).flac
 
 opening-cut.wav: simcop2387--english-intro.flac
 	sox $< $@ trim	39.476 =54.32
@@ -17,6 +17,9 @@ INPUTFILES = opening-cut.wav shaike-cut.wav
 
 $(OUTBASE).wav: $(INPUTFILES)
 	sox $(INPUTFILES) $@
+
+$(OUTBASE).flac: $(OUTBASE).wav
+	sox $< $@
 
 $(OUTBASE).mp3: $(OUTBASE).wav
 	sox $< $@

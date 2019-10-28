@@ -9,4 +9,13 @@ About:
 ------
 
 This is https://en.wikipedia.org/wiki/Shaike_Ophir[Shaike Ophir]'s "The English Teacher" Skit, only with an English introduction (as recorded by simcop2387)
-instead of the original one in Hebrew.
+instead of the original one in Hebrew. This was done to both avoid issues while playing it in an environment that is hostile
+towards [Hebrew](https://en.wikipedia.org/wiki/Modern_Hebrew) and to making the skit more accessible.
+
+[id="final-outputs"]
+Final Version:
+--------------
+
+* https://www.shlomifish.org/Files/files/music/mp3-ogg/Shaikeh-Ophir--The-English-Teacher--With-English-Intro.mp3[Hostgator.com hosted mp3] - limited bandwidth!
+
+* https://soundcloud.com/shlomif/shaikeh-ophir-the-english-teacher-with-english-intro[SoundCloud]
