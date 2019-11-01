@@ -8,7 +8,7 @@ Shlomi Fish <shlomif@cpan.org>
 About:
 ------
 
-This is https://en.wikipedia.org/wiki/Shaike_Ophir[Shaike Ophir]'s "The English Teacher" Skit, only with an English introduction (as recorded by simcop2387)
+This is https://en.wikipedia.org/wiki/Shaike_Ophir[Shaike Ophir]'s "The English Teacher" Skit, only with an English introduction (as recorded by https://www.simcop2387.info/[simcop2387])
 instead of the original one in Hebrew. This was done to both avoid issues while playing it in an environment that is hostile
 towards https://en.wikipedia.org/wiki/Modern_Hebrew[Hebrew] and to making the skit more accessible.
 
